@@ -84,3 +84,5 @@ El proyecto incluirá:
 ## 📖 Licencia
 
 Este repositorio tiene fines exclusivamente educativos.
+
+(me obligan a usar ia para github)
